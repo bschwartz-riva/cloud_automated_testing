@@ -1,0 +1,1 @@
+C:\cloud_automated_testing\cloud_test_automation\bin\Debug\WindowsFormsApplication1.exe.config
