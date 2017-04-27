@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<scenarios>
+  <scenario>
+    <CRM></CRM>
+    <email></email>
+    <accountType></accountType>
+    <user></user>
+    <purchase></purchase>
+    <country></country>
+    <state></state>
+    <timezone></timezone>
+    <account></account>
+    <username></username>
+    <password></password>
+  </scenario>
+  
+  <scenario>
+    
+  </scenario>
+</scenarios>

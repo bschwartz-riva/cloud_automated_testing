@@ -77,7 +77,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="config.xml" />
+    <Content Include="config-template.xml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="cases\01.1 - Home Page\" />
