@@ -80,8 +80,8 @@
     <Content Include="config.xml" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="01.1 - Home Page\" />
-    <Folder Include="01.2 - Login Page\" />
+    <Folder Include="cases\01.1 - Home Page\" />
+    <Folder Include="cases\01.2 - Login Page\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
