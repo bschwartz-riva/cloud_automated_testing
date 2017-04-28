@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<credentials>
+  <email>
+    <O365>
+      <username></username>
+      <password></password>
+    </O365>
+    
+    <Notes>
+      <username></username>
+      <password></password>
+    </Notes>
+  </email>
+  
+<CRM>
+    <salesforce>
+      <username></username>
+      <password></password>
+    </salesforce>
+
+    <sugar>
+      <username></username>
+      <password></password>
+    </sugar>
+  
+    <netsuite>
+      <username></username>
+      <password></password>
+    </netsuite>
+  </CRM>
+</credentials>

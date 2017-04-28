@@ -24,7 +24,7 @@ namespace WindowsFormsApplication1
         email[] emails;
         CRM[] CRMs;
 
-	    public test(isCritical = false; accounts = {account.none}; users = {users.none}, modes = {modes.none}, emails = {email.none}; CRMs = {CRM.none}) {
+	    public test(isCritical = false; accounts = {account.none}; users = {user.none}, modes = {mode.none}, emails = {email.none}; CRMs = {CRM.none}) {
             runs = 0;
             successes = 0;
             failures = 0;
