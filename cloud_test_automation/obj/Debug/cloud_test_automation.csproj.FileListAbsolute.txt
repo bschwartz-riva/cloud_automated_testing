@@ -1,1 +1,4 @@
 C:\cloud_automated_testing\cloud_test_automation\bin\Debug\WindowsFormsApplication1.exe.config
+C:\cloud_automated_testing\cloud_test_automation\obj\Debug\cloud_test_automation.csprojResolveAssemblyReference.cache
+C:\cloud_automated_testing\cloud_test_automation\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\cloud_automated_testing\cloud_test_automation\obj\Debug\cloud_test_automation.csproj.GenerateResource.Cache
